@@ -1,0 +1,7 @@
+[package]
+name = "pythonator"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Add serialization or async toolsets here if extending the orchestrator web hooks
